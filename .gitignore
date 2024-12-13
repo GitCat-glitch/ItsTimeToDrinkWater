@@ -1,0 +1,9 @@
+
+*.log
+
+*.env
+
+/dist/
+/build/
+*.exe
+*.spec

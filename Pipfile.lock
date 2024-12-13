@@ -1,0 +1,66 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "6af75de312d80de7007ae6ab09bb9241f97b53aa932968d703b06bd4cb0e2c8b"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.12"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pypiwin32": {
+            "hashes": [
+                "sha256:67adf399debc1d5d14dffc1ab5acacb800da569754fafdc576b2a039485aa775",
+                "sha256:71be40c1fbd28594214ecaecb58e7aa8b708eabfa0125c8a109ebd51edbd776a"
+            ],
+            "version": "==223"
+        },
+        "pywin32": {
+            "hashes": [
+                "sha256:00b3e11ef09ede56c6a43c71f2d31857cf7c54b0ab6e78ac659497abd2834f47",
+                "sha256:100a5442b7332070983c4cd03f2e906a5648a5104b8a7f50175f7906efd16bb6",
+                "sha256:13dcb914ed4347019fbec6697a01a0aec61019c1046c2b905410d197856326a6",
+                "sha256:1c44539a37a5b7b21d02ab34e6a4d314e0788f1690d65b48e9b0b89f31abbbed",
+                "sha256:1f696ab352a2ddd63bd07430080dd598e6369152ea13a25ebcdd2f503a38f1ff",
+                "sha256:3b92622e29d651c6b783e368ba7d6722b1634b8e70bd376fd7610fe1992e19de",
+                "sha256:4fc888c59b3c0bef905ce7eb7e2106a07712015ea1c8234b703a088d46110e8e",
+                "sha256:575621b90f0dc2695fec346b2d6302faebd4f0f45c05ea29404cefe35d89442b",
+                "sha256:5794e764ebcabf4ff08c555b31bd348c9025929371763b2183172ff4708152f0",
+                "sha256:587f3e19696f4bf96fde9d8a57cec74a57021ad5f204c9e627e15c33ff568897",
+                "sha256:5d8c8015b24a7d6855b1550d8e660d8daa09983c80e5daf89a273e5c6fb5095a",
+                "sha256:71b3322d949b4cc20776436a9c9ba0eeedcbc9c650daa536df63f0ff111bb920",
+                "sha256:7873ca4dc60ab3287919881a7d4f88baee4a6e639aa6962de25a98ba6b193341",
+                "sha256:796ff4426437896550d2981b9c2ac0ffd75238ad9ea2d3bfa67a1abd546d262e",
+                "sha256:9b4de86c8d909aed15b7011182c8cab38c8850de36e6afb1f0db22b8959e3091",
+                "sha256:a5ab5381813b40f264fa3495b98af850098f814a25a63589a8e9eb12560f450c",
+                "sha256:ef313c46d4c18dfb82a2431e3051ac8f112ccee1a34f29c263c583c568db63cd",
+                "sha256:fd380990e792eaf6827fcb7e187b2b4b1cede0585e3d0c9e84201ec27b9905e4"
+            ],
+            "version": "==308"
+        },
+        "setuptools": {
+            "hashes": [
+                "sha256:8199222558df7c86216af4f84c30e9b34a61d8ba19366cc914424cdbd28252f6",
+                "sha256:ce74b49e8f7110f9bf04883b730f4765b774ef3ef28f722cce7c273d253aaf7d"
+            ],
+            "markers": "python_version >= '3.9'",
+            "version": "==75.6.0"
+        },
+        "win10toast": {
+            "hashes": [
+                "sha256:44e5afa1001de88a0ee533872231521fa67c7d144f39974089af242d9c4620a4"
+            ],
+            "index": "pypi",
+            "version": "==0.9"
+        }
+    },
+    "develop": {}
+}
